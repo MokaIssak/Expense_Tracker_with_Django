@@ -1,0 +1,4 @@
+- [x] Fix STATICFILES_DIRS in settings.py (change to plural and list)
+- [x] Update CSS link in index.html to /static/css/main.css
+- [x] Run collectstatic command
+- [ ] Run server to test CSS loading
